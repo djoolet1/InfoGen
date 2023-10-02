@@ -1,7 +1,7 @@
 import requests
 
 # Unesite svoj Genius API ključ ovde
-GENIUS_API_KEY = '3lX2tNy8PUf4J03fo8gAkSFK0C7iBv70lTYzLp3Z__eU1kfyPECueD71QMvWpW4M'
+GENIUS_API_KEY = ''
 
 # Unesite ime izvođača kog želite da pretražujete
 izvodjac = input(" Travis Scott ")
